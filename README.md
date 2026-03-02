@@ -1,4 +1,4 @@
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Dev Tools:</i></h2>
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> SHANTO Skills Stack & Dev Tools:</i></h2>
 
 <!-- ─── Front‑End ───────────────────────────────────────────────────────────── -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
