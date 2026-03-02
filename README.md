@@ -1,7 +1,7 @@
 <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> SHANTO SKILLA STACK & DEV TOOLS:</i></h2>
 
 <!-- ─── Front‑End ───────────────────────────────────────────────────────────── -->
-![ONLINE README KING SHANTO OKH BYE](https://img.shields.io/badge/ONLINE_AR_README_KING_SHANTO_b-E34F26?style=plastic&logo=html5&logoColor=white)
+![ONLINE README KING SHANTO OKH BYE](https://img.shields.io/badge/ONLINE!AR!README!KING!SHANTO-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
