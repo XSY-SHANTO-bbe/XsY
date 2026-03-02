@@ -1,4 +1,4 @@
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> SHANTO SKILLA STACK & DEV TOOLS:</i></h2>
+<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> SHANTO SKILLA STACK & DEV TOOLS KING OF 𝗩𝗜𝗥𝗧𝗨𝗔𝗟:</i></h2>
 
 <!-- ─── Front‑End ───────────────────────────────────────────────────────────── -->
 ![ONLINE README KING SHANTO OKH BYE](https://img.shields.io/badge/ONLINE!AR!README!KING!SHANTO-E34F26?style=plastic&logo=html5&logoColor=white)
